@@ -9,6 +9,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2-CriandoVariaveis", "2-Cri
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3-CriandoVariaveisPontoFlutuante", "3-CriandoVariaveisPontoFlutuante\3-CriandoVariaveisPontoFlutuante.csproj", "{82E4AE1E-69C3-4E90-892F-CF78A6C42904}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4-ConvercoesEOutrosTipos", "4-ConvercoesEOutrosTipos\4-ConvercoesEOutrosTipos.csproj", "{88C3B67B-7452-4DA2-B7FF-E64FB450B2CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5-CaracteresETextos", "5-CaracteresETextos\5-CaracteresETextos.csproj", "{16B483E6-E077-4D5C-A63A-EE3DBB3C3339}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{82E4AE1E-69C3-4E90-892F-CF78A6C42904}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{82E4AE1E-69C3-4E90-892F-CF78A6C42904}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{82E4AE1E-69C3-4E90-892F-CF78A6C42904}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88C3B67B-7452-4DA2-B7FF-E64FB450B2CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88C3B67B-7452-4DA2-B7FF-E64FB450B2CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88C3B67B-7452-4DA2-B7FF-E64FB450B2CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88C3B67B-7452-4DA2-B7FF-E64FB450B2CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16B483E6-E077-4D5C-A63A-EE3DBB3C3339}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16B483E6-E077-4D5C-A63A-EE3DBB3C3339}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16B483E6-E077-4D5C-A63A-EE3DBB3C3339}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16B483E6-E077-4D5C-A63A-EE3DBB3C3339}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
