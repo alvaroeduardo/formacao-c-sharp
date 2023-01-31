@@ -15,6 +15,9 @@ class Programa
         letra = (char)(65 + 1);
         Console.WriteLine(letra);
 
+        string primeiraFrase = "Álvaro Eduardo Silva";
+        Console.WriteLine(primeiraFrase);
+
         Console.WriteLine("Tecle enter para fechar...");
         Console.ReadLine();
     }
